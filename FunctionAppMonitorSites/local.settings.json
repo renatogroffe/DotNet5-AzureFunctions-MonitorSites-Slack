@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "UrlLogicAppAlerta": "",
+        "SitesMonitoramento": "https://executandoazfunction.com|https://github.com|https://testedurantelive.com|https://stackoverflow.com|https://siteinvalido.com.br",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated"
+    }
+}
